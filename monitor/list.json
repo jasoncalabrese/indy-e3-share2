@@ -1,5 +1,12 @@
 [
   {
+    "mac": "E0:25:34:BD:F1:B2", 
+    "name": "DEXCOMRX", 
+    "advertised": [
+      "f0aca0b1-ebfa-f96f-28da-076c35a521db"
+    ]
+  }, 
+  {
     "mac": "CC:64:BE:73:12:28", 
     "name": "DEXCOMRX", 
     "advertised": [
