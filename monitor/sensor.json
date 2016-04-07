@@ -1,1 +1,79 @@
-[]
+[
+  {
+    "filtered": 127328, 
+    "system_time": "2016-04-07T05:11:42", 
+    "display_time": "2016-04-06T23:12:45", 
+    "unfiltered": 128976, 
+    "rssi": 441
+  }, 
+  {
+    "filtered": 127568, 
+    "system_time": "2016-04-07T05:06:42", 
+    "display_time": "2016-04-06T23:07:44", 
+    "unfiltered": 126768, 
+    "rssi": 192
+  }, 
+  {
+    "filtered": 127504, 
+    "system_time": "2016-04-07T05:01:42", 
+    "display_time": "2016-04-06T23:02:44", 
+    "unfiltered": 126656, 
+    "rssi": 190
+  }, 
+  {
+    "filtered": 126624, 
+    "system_time": "2016-04-07T04:56:42", 
+    "display_time": "2016-04-06T22:57:44", 
+    "unfiltered": 127392, 
+    "rssi": 192
+  }, 
+  {
+    "filtered": 125104, 
+    "system_time": "2016-04-07T04:51:42", 
+    "display_time": "2016-04-06T22:52:44", 
+    "unfiltered": 127920, 
+    "rssi": 192
+  }, 
+  {
+    "filtered": 123312, 
+    "system_time": "2016-04-07T04:46:42", 
+    "display_time": "2016-04-06T22:47:44", 
+    "unfiltered": 126096, 
+    "rssi": 199
+  }, 
+  {
+    "filtered": 121648, 
+    "system_time": "2016-04-07T04:41:42", 
+    "display_time": "2016-04-06T22:42:44", 
+    "unfiltered": 123920, 
+    "rssi": 200
+  }, 
+  {
+    "filtered": 120400, 
+    "system_time": "2016-04-07T04:36:42", 
+    "display_time": "2016-04-06T22:37:45", 
+    "unfiltered": 123184, 
+    "rssi": 450
+  }, 
+  {
+    "filtered": 120032, 
+    "system_time": "2016-04-07T04:31:42", 
+    "display_time": "2016-04-06T22:32:44", 
+    "unfiltered": 120896, 
+    "rssi": 194
+  }, 
+  {
+    "filtered": 121040, 
+    "system_time": "2016-04-07T04:26:42", 
+    "display_time": "2016-04-06T22:27:44", 
+    "unfiltered": 120528, 
+    "rssi": 194
+  }, 
+  {
+    "filtered": 123184, 
+    "system_time": "2016-04-07T04:21:42", 
+    "display_time": "2016-04-06T22:22:44", 
+    "unfiltered": 120688, 
+    "rssi": 194
+  }
+]
