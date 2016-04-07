@@ -1,5 +1,12 @@
 [
   {
+    "filtered": 138368, 
+    "system_time": "2016-04-07T05:36:42", 
+    "display_time": "2016-04-06T23:37:44", 
+    "unfiltered": 141760, 
+    "rssi": 190
+  }, 
+  {
     "filtered": 135712, 
     "system_time": "2016-04-07T05:31:42", 
     "display_time": "2016-04-06T23:32:44", 
@@ -75,12 +82,5 @@
     "display_time": "2016-04-06T22:42:44", 
     "unfiltered": 123920, 
     "rssi": 200
-  }, 
-  {
-    "filtered": 120400, 
-    "system_time": "2016-04-07T04:36:42", 
-    "display_time": "2016-04-06T22:37:45", 
-    "unfiltered": 123184, 
-    "rssi": 450
   }
 ]
