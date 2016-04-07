@@ -1,5 +1,26 @@
 [
   {
+    "filtered": 132640, 
+    "system_time": "2016-04-07T05:26:42", 
+    "display_time": "2016-04-06T23:27:44", 
+    "unfiltered": 136640, 
+    "rssi": 190
+  }, 
+  {
+    "filtered": 129728, 
+    "system_time": "2016-04-07T05:21:42", 
+    "display_time": "2016-04-06T23:22:44", 
+    "unfiltered": 135072, 
+    "rssi": 190
+  }, 
+  {
+    "filtered": 127824, 
+    "system_time": "2016-04-07T05:16:42", 
+    "display_time": "2016-04-06T23:17:44", 
+    "unfiltered": 131936, 
+    "rssi": 192
+  }, 
+  {
     "filtered": 127328, 
     "system_time": "2016-04-07T05:11:42", 
     "display_time": "2016-04-06T23:12:45", 
@@ -54,26 +75,5 @@
     "display_time": "2016-04-06T22:37:45", 
     "unfiltered": 123184, 
     "rssi": 450
-  }, 
-  {
-    "filtered": 120032, 
-    "system_time": "2016-04-07T04:31:42", 
-    "display_time": "2016-04-06T22:32:44", 
-    "unfiltered": 120896, 
-    "rssi": 194
-  }, 
-  {
-    "filtered": 121040, 
-    "system_time": "2016-04-07T04:26:42", 
-    "display_time": "2016-04-06T22:27:44", 
-    "unfiltered": 120528, 
-    "rssi": 194
-  }, 
-  {
-    "filtered": 123184, 
-    "system_time": "2016-04-07T04:21:42", 
-    "display_time": "2016-04-06T22:22:44", 
-    "unfiltered": 120688, 
-    "rssi": 194
   }
 ]
